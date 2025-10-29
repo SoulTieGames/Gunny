@@ -28,7 +28,8 @@ If the program runs slowly, I recommend disabling "selection smoke" in the GUI o
 
 ### Thanks a lot, have fun!   
          
-P.S. The program is too large to upload on github. On the releases page there will be a link to download.       
+P.S. The program is too large to upload on github. On the releases page there will be a link to download.  
+ALSO, when adding Teknoparrot games, the "roms" are the game.xml files in the "Game_profiles" folder of the teknoparrot installation directory.
 
 
 
